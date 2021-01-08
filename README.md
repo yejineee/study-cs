@@ -11,7 +11,7 @@
 
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
-- [ES6의 let, const](https://github.com/yejineee/study-javascript/wiki/ES6%EC%9D%98-let,-const)
+- [var, let, const와 호이스팅](https://github.com/yejineee/study-javascript/wiki/ES6%EC%9D%98-let,-const)
  
 - [프로토타입 객체](https://github.com/yejineee/study-javascript/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85)
 
