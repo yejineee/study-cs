@@ -17,6 +17,12 @@
 
 - [Object.create의 역할은 무엇인가?](https://github.com/yejineee/study-cs/wiki/Object.create%EC%9D%98-%EC%97%AD%ED%95%A0%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%3F)
 
+- [실행 컨텍스트 (Execution Context)
+](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-(Execution-Context))
+
+- [실행 컨텍스트의 세 가지 객체 (VO, SC, this)](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%84%B8-%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4-(VO,-SC,-this))
+
+- [실행 컨텍스트의 생성 과정](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%9D%EC%84%B1-%EA%B3%BC%EC%A0%95)
 
 ## 🌃 React
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
