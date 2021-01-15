@@ -24,7 +24,7 @@
 - [실행 컨텍스트 (Execution Context)
 ](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8-(Execution-Context))
 
-- [실행 컨텍스트의 세 가지 객체 (VO, SC, this)](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%84%B8-%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4-(%EB%B3%80%EC%88%98-%EA%B0%9D%EC%B2%B4,-%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B2%B4%EC%9D%B8,-this))
+- [실행 컨텍스트의 세 가지 객체 (변수 객체, 스코프 체인, this)](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%84%B8-%EA%B0%80%EC%A7%80-%EA%B0%9D%EC%B2%B4-(%EB%B3%80%EC%88%98-%EA%B0%9D%EC%B2%B4,-%EC%8A%A4%EC%BD%94%ED%94%84-%EC%B2%B4%EC%9D%B8,-this))
 
 - [실행 컨텍스트의 생성 과정](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%9D%EC%84%B1-%EA%B3%BC%EC%A0%95)
 
