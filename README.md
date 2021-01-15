@@ -9,6 +9,7 @@
 
 ## 🌱 Javascript
 
+- [undefined와 null의 차이](https://github.com/yejineee/study-cs/wiki/undefined%EC%99%80-null%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
 - [var, let, const와 호이스팅](https://github.com/yejineee/study-javascript/wiki/ES6%EC%9D%98-let,-const)
