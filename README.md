@@ -9,7 +9,7 @@
 
 ## 🌱 Javascript
 
-- [undefined와 null의 차이](https://github.com/yejineee/study-cs/wiki/undefined%EC%99%80-null%EC%9D%98-%EC%B0%A8%EC%9D%B4)
+- [undefined vs null vs undeclared 변수](https://github.com/yejineee/study-cs/wiki/undefined%EC%99%80-null%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 - [호이스팅이란?](https://github.com/yejineee/study-cs/wiki/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80%3F)
 
