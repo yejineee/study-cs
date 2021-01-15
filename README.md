@@ -13,7 +13,7 @@
 
 - [호이스팅이란?](https://github.com/yejineee/study-cs/wiki/%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85%EC%9D%B4%EB%9E%80%3F)
 
-- [var, let, const와 호이스팅](https://github.com/yejineee/study-javascript/wiki/ES6%EC%9D%98-let,-const)
+- [var, let, const와 호이스팅](https://github.com/yejineee/study-cs/wiki/var,-let,-const-%EC%99%80-%ED%98%B8%EC%9D%B4%EC%8A%A4%ED%8C%85)
  
 - [프로토타입 객체](https://github.com/yejineee/study-javascript/wiki/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85)
 
