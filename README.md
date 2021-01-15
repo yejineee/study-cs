@@ -24,6 +24,8 @@
 
 - [실행 컨텍스트의 생성 과정](https://github.com/yejineee/study-cs/wiki/%EC%8B%A4%ED%96%89-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%9D%98-%EC%83%9D%EC%84%B1-%EA%B3%BC%EC%A0%95)
 
+- [함수 호출 방식과 this 바인딩](https://github.com/yejineee/study-cs/wiki/%ED%95%A8%EC%88%98-%ED%98%B8%EC%B6%9C-%EB%B0%A9%EC%8B%9D%EA%B3%BC-this-%EB%B0%94%EC%9D%B8%EB%94%A9)
+
 ## 🌃 React
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 
