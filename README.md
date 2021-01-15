@@ -38,6 +38,8 @@
 ## 🌈 FrontEnd
 - [브라우저는 어떻게 동작하는가?](https://github.com/yejineee/study-cs/wiki/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80%3F)
 
+- [BOM vs DOM](https://github.com/yejineee/study-cs/wiki/BOM-vs-DOM)
+
 ## ⚙️ 운영체제
 - [운영체제 Introduction](https://github.com/yejineee/study-cs/wiki/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Introduction)
 
