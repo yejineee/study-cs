@@ -35,13 +35,15 @@
 
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 
-## 🌈 FrontEnd
+## 🌈 FrontEnd & Web
 
 - [브라우저의 렌더링 동작 과정](https://github.com/yejineee/study-cs/blob/master/frontend/browser-rendering.md)
 
 - [BOM vs DOM](https://github.com/yejineee/study-cs/wiki/BOM-vs-DOM)
 
 - [Web Workers란](https://github.com/yejineee/study-cs/blob/master/frontend/webworker.md)
+
+- [이벤트 캡쳐링 & 버블링 & 이벤트 전파 순서](https://github.com/yejineee/study-cs/blob/master/frontend/event-propagation.md)
 
 ## ⚙️ 운영체제
 
