@@ -153,9 +153,9 @@ export된 인터페이스는 모듈 캐쉬에 캐싱된다. 따라서 같은 모
 
 - ✨ 언제 웹팩을 쓰면 좋을까?
 
-    웹팩은 각 모듈을 함수로 감싸고, 브라우저 친화적인 `require` 구현과 함께 번들에 모듈을을 넣고, 모듈들을 하나씩 처리한다. 
+    웹팩은 각 모듈을 함수로 감싸고, 브라우저 친화적인 `require` 구현과 함께 번들에 모듈들을 넣고, 모듈들을 하나씩 처리한다. 
 
-    만약, on-demand loading과 같은 것이 필요하다면 웹팩이 좋은 선택이다. 그렇지 않은 경우엔, 약간의 낭비가 있으며, 많은 모듈이 있을 때는 더 안좋을 수 있다. 그에 대한 참고 자료는 이 [링크](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)를 클릭하면 된다. 
+    만약, on-demand loading과 같은 것이 필요하다면 웹팩이 좋은 선택이다. 그렇지 않은 경우엔, 약간의 낭비가 있으며, 많은 모듈이 있을 때는 더 안좋을 수 있다. (참고 자료는 : [the cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)) 
 
 
 #### Rollup 방식
