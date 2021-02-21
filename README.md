@@ -45,7 +45,7 @@
 
 - [이벤트 캡쳐링 & 버블링 & 이벤트 전파 순서](https://github.com/yejineee/study-cs/blob/master/frontend/event-propagation.md)
 
-- [모듈 번들러란? 번들 방식(Webpack 방식과 Rollup 방식](https://github.com/yejineee/study-cs/tree/master/frontend)
+- [모듈 번들러란? 번들 방식(Webpack 방식과 Rollup 방식](https://github.com/yejineee/study-cs/blob/master/frontend/module-bundler.md)
 
 ## ⚙️ 운영체제
 
