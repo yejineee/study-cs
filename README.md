@@ -1,4 +1,4 @@
-# 🌳 Front-end Fundatmentals 🌳
+# 🌳 Front-end Fundamentals 🌳
 
 ## 🗂 폴더 구조
 
