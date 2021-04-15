@@ -1,4 +1,4 @@
-# 🌳 CS 공부라는 것을 해보자 🌳
+# 🌳 Front-end Fundatmentals 🌳
 
 ## 🗂 폴더 구조
 
@@ -46,9 +46,3 @@
 - [이벤트 캡쳐링 & 버블링 & 이벤트 전파 순서](https://github.com/yejineee/study-cs/blob/master/frontend/event-propagation.md)
 
 - [모듈 번들러란? 번들 방식(Webpack 방식과 Rollup 방식](https://github.com/yejineee/study-cs/blob/master/frontend/module-bundler.md)
-
-## ⚙️ 운영체제
-
-- [운영체제 Introduction](https://github.com/yejineee/study-cs/wiki/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-Introduction)
-
-- [시스템 구조와 프로그램 실행 1](https://github.com/yejineee/study-cs/wiki/%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%EC%A1%B0%EC%99%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%8B%A4%ED%96%89-1)
