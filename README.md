@@ -1,10 +1,6 @@
-# 🌳 Front-end Fundamentals 🌳
+#  Frontend Fundamentals 
 
-## 🗂 폴더 구조
-
-📁 `you-dont-know-js` : you don't know JS의 연습문제 풀이
-
-## 🌱 Javascript
+## 🔮 Javascript
 
 - [이벤트 루프와 태스크 큐 (마이크로 태스크, 매크로 태스크)](https://github.com/yejineee/study-cs/blob/master/js/eventloop-taskqueue.md)
 
@@ -31,11 +27,11 @@
 
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
-## 🌃 React
+## 🔮 React
 
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 
-## 🌈 FrontEnd & Web
+## 🔮 FrontEnd & Web
 
 - [브라우저의 렌더링 동작 과정](https://github.com/yejineee/study-cs/blob/master/frontend/browser-rendering.md)
 
@@ -45,4 +41,8 @@
 
 - [이벤트 캡쳐링 & 버블링 & 이벤트 전파 순서](https://github.com/yejineee/study-cs/blob/master/frontend/event-propagation.md)
 
-- [모듈 번들러란? 번들 방식(Webpack 방식과 Rollup 방식](https://github.com/yejineee/study-cs/blob/master/frontend/module-bundler.md)
+- [모듈 번들러란? 번들 방식(Webpack 방식과 Rollup 방식)](https://github.com/yejineee/study-cs/blob/master/frontend/module-bundler.md)
+
+- [성능최적화]()
+
+- [모던 웹 브라우저 1 - CPU, GPU, Memory, 멀티 프로세스 아키텍쳐]()
