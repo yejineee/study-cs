@@ -33,6 +33,7 @@
 ## 🔮 React
 
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
+- [리액트 생명주기](https://github.com/yejineee/study-fe/blob/master/react/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 
 ## 🔮 FrontEnd & Web
 
