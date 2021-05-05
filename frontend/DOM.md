@@ -1,4 +1,7 @@
 
+
+# DOM은 무엇인가? DOM Node와 Element의 차이
+
 여행자보험의 보장명과 보장가격을 가져오기 위해 웹크롤링을 해보았다. 사실 이 과정은 그냥, html parsing해주는 라이브러리를 사용해서 html에서 내가 원하는 정보를 가져오는 것이 전부였다. 원하는 결과가 무엇인지, 내가 무엇을 해야하는지는 명확했지만, 그 결과를 얻기 위한 과정에서 어려움이 있었다. Element, Node에 대한 차이를 이해하지 못했기 때문이다.
 
 브라우저의 DOM에 대해 다시 학습하고, Element와 Node의 차이가 무엇인지 정리해보고자 한다.
@@ -20,9 +23,9 @@ DOM은 Document Object Model의 줄임말며, **웹페이지에 대한 인터페
 
 ## ❄️ DOM은 어떻게 만들어지는가?
 
-DOM은 HTML 문서를 객체 기반으로 표현한 것이다. 왜 객체로 표현했을까? 이는 HTML의 구조와 내용을 객체 모델로 바꿔서 다양한 프로그램에서 쉽게 사용할 수 있게 하기 위함이다. 
+**DOM은 HTML 문서를 객체 기반으로 표현**한 것이다. 왜 객체로 표현했을까? 이는 HTML의 구조와 내용을 객체 모델로 바꿔서 **다양한 프로그램에서 쉽게 사용할 수 있게 하기 위함**이다. 
 
-DOM의 객체 구조는 '노드 트리'라고도 불린다. 왜냐하면, DOM을 루트에서부터 여러 노드들이 가지치며 나오는 트리로 생각할 수 있기 때문이다. 루트의 \<html> element로 부터 중첩된 여러 element가 뻗어나오게 되며, 말단 노드에는 각 element의 content가 있는 형태이다.
+DOM의 객체 구조는 **'노드 트리'**라고도 불린다. 왜냐하면, DOM을 루트에서부터 여러 노드들이 가지치며 나오는 트리로 생각할 수 있기 때문이다. 루트의 `<html>` element로 부터 중첩된 여러 element가 뻗어나오게 되며, 말단 노드에는 각 element의 content가 있는 형태이다.
 
 다음의 HTML 문서는 아래와 같은 노드 트리로 표현된다. html 태그로부터, head, body node가 나오게 되며, 트리의 leaf에는 컨텐츠들이 있는 것을 확인할 수 있다.
 
@@ -54,7 +57,7 @@ DOM이 HTML 문서로부터 만들어지긴 했지만, 항상 정확하게 같�
 
     DOM은 오로지 **유효한 HTML 문서**에 대한 인터페이스이다. HTML을 파싱하며 DOM을 생성하는 과정에서, 브라우저는 HTML에서 문제가 있는 것들을 고칠 수도 있다.
     
-    예를 들어, 아래의 HTML과 같이 \<head> 와 \<body> 가 빠진 유효하지 않은 HTML의 경우, DOM은 head와 body를 추가하여 유효한 HTML로 고치게 된다.
+    예를 들어, 아래의 HTML과 같이 `<head>` 와 `<body>` 가 빠진 유효하지 않은 HTML의 경우, DOM은 head와 body를 추가하여 유효한 HTML로 고치게 된다.
     
 ```htmlembedded
 <!doctype html>
@@ -83,7 +86,7 @@ Hello, world!
 
 devtool은 DOM에 가까운 것을 제공한다. 그러나, 데브툴은 DOM에 없더라도, 우리에게 정보를 주기 위해 추가로 넣는 것들이 있다.
 
-그 예로는 CSS의 pseudo element가 있따. pseudo-element는 CSSOM과 렌더트리로부터 ::before와 ::after 셀렉터로 만들어지게 된다. 그러나, DOM에는 속하지 않는다. DOM은 HTML로부터 만들어지는 것이기 때문에, 그 Element와 관련된 스타일은 포함하지 않기 때문이다.
+그 예로는 CSS의 pseudo element가 있따. pseudo-element는 CSSOM과 렌더트리로부터 `::before`와 `::after` 셀렉터로 만들어지게 된다. 그러나, DOM에는 속하지 않는다. DOM은 HTML로부터 만들어지는 것이기 때문에, 그 Element와 관련된 스타일은 포함하지 않기 때문이다.
 
 pseudo-element가 DOM의 구성은 아니지만, devtool은 그것을 보여주게 된다. 그러므로, pseudo-element가 devtool에서 보여진다 하더라도, JS로 그 엘리먼트를 target할 수는 없는 것이다. 
 
@@ -109,11 +112,11 @@ DOM은 Node의 계층 구조로 이루어져 있다. 각 노드는 부모와 chi
   </body>
 </html>
 ```
-위의 HTMl은 아래에 있는 노드들의 계층으로 구성되어있따.
+위의 HTMl은 아래에 있는 노드들의 계층으로 구성되어있다.
 
 ![](https://i.imgur.com/RL1IrMs.png)
 
-HTML에 있는 tag (\<html>, \<p>와 같은...)들은 node를 표현하게 된다. 여기서 그저 text이더라도 node가 된다는 점이다. 노드트리를 보면, \<p> 자식 노드로 text node가 있는 것을 확인할 수 있다.
+HTML에 있는 tag (`<html>`, `<p>`와 같은...)들은 node를 표현하게 된다. 여기서 그저 text이더라도 node가 된다는 점이다. 노드트리를 보면, `<p>` 자식 노드로 text node가 있는 것을 확인할 수 있다.
 
 
 - **Node Type**
@@ -129,6 +132,7 @@ HTML에 있는 tag (\<html>, \<p>와 같은...)들은 node를 표현하게 된�
     Node.DOCUMENT_FRAGMENT_NODE
     Node.NOTATION_NODE
     ```
+    
     Node.ELEMENT_NODE 외에도, 주석의 타입인 COMMENT_NODE와 전체 document tree를 표현하는 
     Node.DOCUMENT_NODE도 있다.
     
@@ -137,7 +141,7 @@ HTML에 있는 tag (\<html>, \<p>와 같은...)들은 node를 표현하게 된�
 
 Element는 node의 특정 타입 즉, Node.ELEMENT_NODE인 것이다. 
 
-element는 HTML에서 태그로 적은 노드들을 지칭한다. 예를 들어, \<html>, \<div>, \<title> 과 같은 태그로 나타낸 것들은 전부 element인 것이다. 주석이나 text node와 같은 것들은 HTML 태그로 표현된 것이 아니므로 element가 아니다. 
+element는 HTML에서 태그로 적은 노드들을 지칭한다. 예를 들어, `<html>`, `<div>`, `<title>` 과 같은 태그로 나타낸 것들은 전부 element인 것이다. 주석이나 text node와 같은 것들은 HTML 태그로 표현된 것이 아니므로 element가 아니다. 
 
 JS DOM에서`Node`는 node의 constructor이고, `HTMLElement`는 element의 constructor이다. 
 
