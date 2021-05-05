@@ -39,6 +39,8 @@
 
 - [브라우저의 렌더링 동작 과정](https://github.com/yejineee/study-cs/blob/master/frontend/browser-rendering.md)
 
+- [DOM은 무엇인가? DOM Node와 Element의 차이는?](https://github.com/yejineee/study-fe/blob/master/frontend/DOM.md)
+
 - [BOM vs DOM](https://github.com/yejineee/study-cs/wiki/BOM-vs-DOM)
 
 - [Web Workers란](https://github.com/yejineee/study-cs/blob/master/frontend/webworker.md)
