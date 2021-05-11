@@ -52,9 +52,11 @@
 이는 좀 더 나은 사용자 경험을 위한 것이다.
 
 - 웹킷 동작 과정
+
   ![](https://i.imgur.com/RL6h4UL.png)
 
 - 모질라의 게코 렌더링 엔진 동작 과정
+
   ![](https://i.imgur.com/24EX7JO.png)
 
 ### ✨ 1. 파싱 - DOM(Document Object Model) 트리 생성
