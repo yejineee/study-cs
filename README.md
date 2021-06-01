@@ -1,6 +1,6 @@
 #  Frontend Fundamentals 
 
-## 🔮 Javascript
+## ⚡️ Javascript
 
 - [이벤트 루프와 태스크 큐 (마이크로 태스크, 매크로 태스크)](https://github.com/yejineee/study-cs/blob/master/js/eventloop-taskqueue.md)
 
@@ -27,10 +27,11 @@
 
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
-## 🔮 Typescript
+## ✈️ HTTP
+- [HTTP의 진화](https://github.com/yejineee/study-fe/blob/master/HTTP/HTTP%EC%9D%98%EC%A7%84%ED%99%94.md)
 
 
-## 🔮 React
+## ⚡️ React
 
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 - [리액트 생명주기](https://github.com/yejineee/study-fe/blob/master/react/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
