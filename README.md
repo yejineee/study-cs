@@ -37,7 +37,7 @@
 - [리액트 생명주기](https://github.com/yejineee/study-fe/blob/master/react/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 
 ## 🔮 FrontEnd & Web
-- [SSR vs CSR](https://github.com/yejineee/study-fe/blob/master/frontend/ssr-vs-csr.md)
+- [웹 렌더링 - SSR, CSR, 정적 렌더링](https://github.com/yejineee/study-fe/blob/master/frontend/%EC%9B%B9%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 
 - [브라우저의 렌더링 동작 과정](https://github.com/yejineee/study-cs/blob/master/frontend/browser-rendering.md)
 
