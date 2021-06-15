@@ -27,6 +27,10 @@
 
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
+### You Don't Know JS
+
+- [Part 2 - 1장. 비동기성 : 지금과 나중](https://github.com/yejineee/study-fe/blob/master/you-don't-know-js/Part2-1.%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1.md)
+
 ## ✈️ HTTP
 - [HTTP의 진화](https://github.com/yejineee/study-fe/blob/master/HTTP/HTTP%EC%9D%98%EC%A7%84%ED%99%94.md)
 
