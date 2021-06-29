@@ -1,6 +1,6 @@
 #  Frontend Fundamentals 
 
-## 🔮 Javascript
+## ⚡️ Javascript
 
 - [이벤트 루프와 태스크 큐 (마이크로 태스크, 매크로 태스크)](https://github.com/yejineee/study-cs/blob/master/js/eventloop-taskqueue.md)
 
@@ -27,17 +27,25 @@
 
 - [클로저와 스코프](https://github.com/yejineee/study-javascript/wiki/%ED%81%B4%EB%A1%9C%EC%A0%80%EC%99%80-%EC%8A%A4%EC%BD%94%ED%94%84)
 
-## 🔮 Typescript
+### You Don't Know JS
+
+- [Part 2 - 1장. 비동기성 : 지금과 나중](https://github.com/yejineee/study-fe/blob/master/you-don't-know-js/Part2-1.%20%EB%B9%84%EB%8F%99%EA%B8%B0%EC%84%B1.md)
+
+## ✈️ HTTP
+- [HTTP의 진화](https://github.com/yejineee/study-fe/blob/master/HTTP/HTTP%EC%9D%98%EC%A7%84%ED%99%94.md)
 
 
-## 🔮 React
+## ⚡️ React
 
 - [리액트 컴포넌트, 엘리먼트, 인스턴스](https://github.com/yejineee/study-cs/wiki/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8,-%EC%97%98%EB%A6%AC%EB%A8%BC%ED%8A%B8,-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4)
 - [리액트 생명주기](https://github.com/yejineee/study-fe/blob/master/react/%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%83%9D%EB%AA%85%EC%A3%BC%EA%B8%B0.md)
 
 ## 🔮 FrontEnd & Web
+- [웹 렌더링 - SSR, CSR, 정적 렌더링](https://github.com/yejineee/study-fe/blob/master/frontend/%EC%9B%B9%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 
 - [브라우저의 렌더링 동작 과정](https://github.com/yejineee/study-cs/blob/master/frontend/browser-rendering.md)
+
+- [DOM은 무엇인가? DOM Node와 Element의 차이는?](https://github.com/yejineee/study-fe/blob/master/frontend/DOM.md)
 
 - [BOM vs DOM](https://github.com/yejineee/study-cs/wiki/BOM-vs-DOM)
 
