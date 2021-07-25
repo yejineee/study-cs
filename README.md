@@ -61,3 +61,9 @@
 - [성능최적화](https://github.com/yejineee/study-fe/blob/master/frontend/%EC%84%B1%EB%8A%A5%EC%B5%9C%EC%A0%81%ED%99%94.md)
 
 - [모던 웹 브라우저 1 - CPU, GPU, Memory, 멀티 프로세스 아키텍쳐](https://github.com/yejineee/study-fe/blob/master/frontend/%EB%AA%A8%EB%8D%98%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%801.md)
+
+## 💙 Typescript
+
+- [1. The Basics](https://github.com/yejineee/study-fe/blob/master/typescript/1.the-basics.md)
+
+
