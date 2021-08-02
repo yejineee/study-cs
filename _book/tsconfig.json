@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true, // 암시적으로 선언되었는데 any 로 추론되면 에러를 알려줍니다.
+    "target":"ES2018"
+  },
+}
+
