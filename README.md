@@ -36,6 +36,7 @@
 ## ✈️ HTTP
 
 - [HTTP의 진화](https://github.com/yejineee/study-fe/blob/master/HTTP/HTTP%EC%9D%98%EC%A7%84%ED%99%94.md)
+- [HTTP 완벽가이드 - 5장 웹서버](https://github.com/yejineee/study-fe/blob/master/HTTP/http%EC%99%84%EB%B2%BD%EA%B0%80%EC%9D%B4%EB%93%9C5%EC%9E%A5-%EC%9B%B9%EC%84%9C%EB%B2%84.md)
 
 ## ⚡️ React
 
